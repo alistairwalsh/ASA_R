@@ -1,0 +1,14 @@
+\documentclass{article}
+\author{Alistair Walsh}
+
+\title{Advanced Statistical Analysis in R}
+
+\begin{document}
+\maketitle{}
+
+To do basic data handling, cleaning and summary statistics in R, we need some data. We can use any of the datasets included with R. 
+
+
+
+
+\end{document}
